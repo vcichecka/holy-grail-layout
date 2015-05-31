@@ -12,4 +12,6 @@ Android 4.4 (S5)
 
 Fixed middle column issue when resizing - added min-width values and still works great! 
 
+![preview](https://github.com/vcichecka/holy-grail-layout/blob/master/PREVIEW.png "Preview image")
+
 http://codepen.io/vcichecka/details/VLPWPg/
